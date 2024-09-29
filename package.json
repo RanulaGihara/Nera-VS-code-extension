@@ -1,0 +1,21 @@
+{
+  "name": "nera-for-vscode",
+  "displayName": "NERA-FOR-VSCODE",
+  "description": "Version 1.0.0",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NERA",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NERA-color-theme.json"
+      }
+    ]
+  }
+}

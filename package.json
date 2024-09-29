@@ -1,8 +1,14 @@
 {
   "name": "nera-for-vscode",
   "displayName": "NERA-FOR-VSCODE",
-  "description": "Version 1.0.0",
+  "description": "A vibrant and colorful theme for VS Code, designed to enhance your coding experience with a visually appealing and stimulating environment.",
   "version": "0.0.1",
+  "publisher": "NeraForVSCode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RanulaGihara/Nera-VS-code-extension"
+  },
+  "keywords": ['Themes', 'NERA', 'dark'],
   "engines": {
     "vscode": "^1.93.0"
   },
